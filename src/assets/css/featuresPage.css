@@ -1,0 +1,321 @@
+/**
+ * Features Page
+ */
+@media screen and (max-width: 1440px){
+
+}
+
+@media screen and (max-width: 1200px){
+    .device-img-space {
+        padding: 0 100px !important;
+    }
+
+    .device-img-text-space {
+        padding: 90px 150px 0 !important;
+    }
+}
+
+@media screen and (max-width: 992px){
+    .contact-width {
+        width: 80% !important;
+    }
+    .features-flex-grid2 {
+        padding-bottom: 20px !important;
+        grid-template-columns: 1fr !important;
+        grid-auto-rows: auto !important;
+    }
+
+    .contact-flex-grid2 {
+        padding-bottom: 20px !important;
+        grid-template-columns: 1fr !important;
+        grid-auto-rows: auto !important;
+    }
+
+    .online-grid2-l {
+        display: grid;
+        padding-bottom: 20px !important;
+        grid-template-columns: 1fr !important;
+        grid-auto-rows: auto !important;
+        grid-column-gap: 30px !important;
+    }
+
+    .online-grid2-r {
+        display: grid;
+        padding-bottom: 20px !important;
+        grid-template-columns: 1fr !important;
+        grid-auto-rows: auto !important;
+        grid-column-gap: 30px !important;
+    }
+
+    .features-payment-pb1 {
+        padding-top: 20px !important;
+    }
+
+    .device-img {
+        max-width: 80px !important;
+    }
+
+    .align-r.app-store,
+    .align-l.app-store {
+        text-align: center !important;
+    }
+}
+
+@media screen and (max-width: 768px){
+    .device-title {
+        padding-left: 0 !important;
+    }
+
+    .device-img-space {
+        padding: 50px 0 0 !important;
+    }
+
+    .device-img-text-space {
+        padding: 50px 0 0 !important;
+    }
+}
+
+@media screen and (max-width: 600px){
+    .features-payment-bgColor {
+        height: 540px !important;
+    }
+}
+
+@media screen and (max-width: 480px){
+    .device-img {
+        padding: 5px !important;
+        max-width: 65px !important;
+    }
+
+    .social-img {
+        width: 100% !important;
+        max-width: 300px !important;
+    }
+
+    .contact-width {
+        width: 95% !important;
+    }
+
+    .select-contact,
+    .btn-contact {
+        width: 100% !important;
+    }
+}
+
+/**
+ * main css
+ */
+.features-payment-bgColor {
+    margin: 0 auto;
+    width: 100%;
+    height: 400px;
+    /*background-image: linear-gradient(90deg, #00CED1 0%, #00DD92 100%);*/
+    background-image: url("../img/landing/iStock-1216915208.jpg");
+    background-size: cover;
+    background-position: center center;
+    text-align: center;
+}
+
+.features-header-pt {
+    padding-top: 70px;
+}
+
+.features-flex-grid2 {
+    display: grid;
+    padding-bottom: 70px;
+    grid-template-columns: 7fr 5.5fr;
+    grid-auto-rows: 1fr;
+    grid-column-gap: 19px;
+}
+.contact-flex-grid2 {
+    display: grid;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    grid-template-columns: 1fr 1fr;
+    grid-auto-rows: 1fr;
+    grid-column-gap: 19px;
+}
+.contact-width {
+    margin: 30px auto;
+    width: 60%;
+}
+.react-datepicker__input-container {
+    width: 250px !important;
+}
+.meeting-duration {
+    display: flex;
+    margin: 0 auto;
+    width: 30%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    border-radius: 4px;
+    border: 1px solid var(--col-title-blue);
+}
+.empty-img {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 100%;
+    height: 420px;
+    text-align: center;
+    background-color: #0002;
+}
+
+.features-payment-pb1 {
+    padding-bottom: 13px;
+}
+
+.features-payment-pb2 {
+    padding-bottom: 15px;
+}
+
+.features-payment-pb3 {
+    padding-bottom: 5px;
+}
+
+.sign-up-for {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    min-height: 128px;
+    text-align: center;
+    background-color: #57b0d2;
+}
+
+.justify-center-btn {
+    display: flex;
+    text-align: center;
+    vertical-align: middle;
+    justify-content: center;
+    align-items: center;
+}
+
+/**
+ * Features Online Sessions
+ */
+.online-grid2-l {
+    display: grid;
+    padding-bottom: 81px;
+    grid-template-columns: 2.3fr 1fr;
+    grid-auto-rows: 1fr;
+    grid-column-gap: 41px;
+}
+
+.online-grid2-r {
+    display: grid;
+    padding-bottom: 81px;
+    grid-template-columns: 1fr 2.3fr;
+    grid-auto-rows: 1fr;
+    grid-column-gap: 57px;
+}
+
+.empty-img-inversion {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 100%;
+    height: 315px;
+    text-align: center;
+
+    background-color: #0002;
+}
+
+.title-ptb {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.desc-features {
+    padding-bottom: 20px;
+}
+
+/**
+ * Features Devices
+ */
+.features-devices-bg {
+    margin: 0 auto;
+    width: 100%;
+    height: 400px;
+    text-align: center;
+
+    background-image: url("../img/device-img-bg.svg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.device-title {
+    margin-top: 120px;
+    margin-bottom: 50px;
+    padding-left: 100px;
+}
+
+.device-img-space,
+.device-img-text-space {
+    display: flex;
+    justify-content: space-between;
+}
+
+.device-img-space {
+    padding: 0 200px;
+}
+
+.device-img-text-space {
+    padding: 0 250px;
+}
+
+.device-img {
+    width: 100%;
+    max-width: 120px;
+}
+
+.apple-txt-pt60 {
+    padding-top: 60px;
+}
+
+.apple-txt-pt90 {
+    padding-top: 90px;
+}
+
+.device-grid2-gaps {
+    grid-column-gap: 50px;
+}
+
+.pb-50 {
+    padding-bottom: 50px;
+}
+
+/**
+ * Why Us page
+ */
+.Why-us-bg {
+    margin: 0 auto;
+    width: 100%;
+    height: 400px;
+    text-align: center;
+
+    /*background-image: url("../img/why-us-img.svg");*/
+    background-image: url("../img/landing/why-us-img.jpg");
+
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.why-us-gaps {
+    grid-column-gap: 48px;
+}
+
+.stats-30 {
+    padding-top: 27px;
+}
+
+.stats-txt-p {
+    padding-top: 30px;
+    padding-bottom: 97px;
+}
+
+.img-pt {
+    padding-top: 30px;
+}

@@ -1,0 +1,355 @@
+/**
+ * View Provider Page
+ */
+@media screen and (max-width: 1440px) {
+
+}
+
+@media screen and (max-width: 992px) {
+    .view-grid3 {
+        margin-top: 35px !important;
+        grid-template-columns: 1fr !important;
+        grid-auto-rows: auto !important;
+    }
+
+    .view-grid21,
+    .view-grid22 {
+        grid-template-columns: 1.5fr 1fr !important;
+        grid-auto-rows: 1fr !important;
+        grid-column-gap: 35px !important;
+    }
+
+    .view-grid21 {
+        grid-template-rows: auto auto !important;
+    }
+
+    .view-grid22 {
+        margin-top: 35px !important;
+        grid-template-rows: auto auto !important;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .psychologist-posi {
+        left: 0 !important;
+        margin: 0 auto !important;
+        width: 100% !important;
+        text-align: center !important;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .view-grid21,
+    .view-grid22 {
+        grid-template-columns: 1fr !important;
+        grid-auto-rows: auto !important;
+    }
+
+    .view-grid21 {
+        margin-bottom: 35px !important;
+    }
+
+    .mobile-flex {
+        display: flex !important;
+    }
+
+    .un-between > div.justify-center {
+        display: inline !important;
+    }
+
+    .robot-maxWidth {
+        margin: 0 10% 15px !important;
+        width: 100% !important;
+        max-width: 80% !important;
+        text-align: center !important;
+    }
+
+    .view-ptl {
+        padding: 20px !important;
+    }
+
+    input {
+        max-width: 100% !important;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .llc-icon-pl {
+        padding-left: 0 !important;
+    }
+
+    .img-pl {
+        padding-left: 0 !important;
+    }
+    .psychologist-posi {
+        padding-top: 120px !important;
+    }
+    .city-pt {
+        display: inline !important;
+    }
+    .psychologist-posi {
+        display: inline !important;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    .newYork-pt {
+        text-align: center;
+        display: inline !important;
+    }
+
+    .llc-city-pr {
+        padding-top: 20px !important;
+        padding-right: 0 !important;
+    }
+
+    .llc-cover-bg {
+        height: auto !important;
+    }
+}
+/**
+ * main
+ */
+html {
+    scroll-behavior: smooth;
+}
+
+.view-header-bgColor {
+    margin: 0 auto;
+    width: 100%;
+    height: 92px;
+    text-align: center;
+}
+
+.llc-cover-bg {
+    display: flex;
+    position: relative;
+    margin: -92px auto 0;
+    width: 100%;
+    max-width: 100%;
+    height: 330px;
+    text-align: center;
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.initial-bg {
+    background-position: center top;
+    background-image: linear-gradient(0, #0002, #0002), url("../img/landing/1.jpg");
+}
+
+.profile-photo {
+    border-radius: 50%;
+}
+
+.img-pl {
+    padding-left: 20px;
+}
+
+.profile-name {
+    color: #fff;
+    text-shadow: 0 0 4px #3333;
+}
+
+.psychologist-posi {
+    display: flex;
+    margin-left: 30px;
+    padding-bottom: 20px;
+    align-items: flex-end;
+}
+
+.newYork-pt {
+    display: flex;
+}
+
+.newYork-pt,
+.city-pt {
+    text-shadow: 0 0 4px #3333;
+}
+
+.city-pt {
+    display: flex;
+    padding-bottom: 30px;
+}
+
+.view-header-pt {
+    padding-top: 46px;
+}
+
+.view-grid3 {
+    display: grid;
+    /*padding-bottom: 36px;*/
+    grid-template-columns: 2.6fr 1fr;
+    grid-auto-rows: 1fr;
+    grid-column-gap: 15px;
+    word-break: break-word;
+}
+
+
+.contact-grid2 {
+}
+
+.view-grid21 {
+    grid-template-rows: 6fr 1fr;
+}
+
+.view-grid22 {
+    grid-template-rows: 1fr 1fr;
+}
+
+.view-grid21,
+.view-grid22 {
+    /*display: grid;*/
+    /*grid-auto-columns: auto;*/
+    /*grid-row-gap: 36px;*/
+}
+
+.bg-grey {
+    background-color: #f7f8f8;
+}
+
+.bg-blue {
+    background-color: #24466f;
+}
+
+.bg-area {
+    background-color: #56b0d2;
+}
+
+.bg-gray {
+    background-color: #869791;
+}
+
+.bg-service {
+    background-color: #abf2d3;
+}
+
+.col-white {
+    color: #fff;
+}
+
+.view-grid-bg > div > span {
+    font-size: 10px;
+    color: var(--col-paragraphBg);
+}
+
+
+.view-ptl {
+    margin-bottom: 15px;
+    padding: 20px 25px 30px;
+    min-height: 150px;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+}
+
+.about-height {
+    min-height: 430px;
+}
+
+.login-for {
+    margin: 36px auto 0;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    min-height: 128px;
+    text-align: center;
+    background-color: #57b0d2;
+}
+
+.btn-view-login {
+    padding: 15px 80px;
+}
+
+hr {
+    padding: 5px 0;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 100%;
+    text-align: center;
+
+    background-color: var(--col-part-bg);
+}
+
+.view-icon1-pt {
+    padding-top: 10px;
+}
+
+.view-icon-desc {
+    padding-left: 5px;
+}
+
+.view-desc-pt {
+    padding-top: 15px;
+}
+
+.map-img {
+    margin-bottom: 20px;
+    min-width: 200px;
+}
+
+.input-pb {
+    margin-bottom: 25px;
+}
+
+.input-message {
+    padding-top: 20px;
+    padding-bottom: 50px;
+    max-width: 100%;
+    height: auto;
+}
+
+.asteristic-pl {
+    padding-left: 10px;
+}
+
+.llc-icon-pl {
+    padding-left: 10px;
+}
+
+.llc-city-pr {
+    padding-right: 50px;
+}
+
+.input-maxW {
+    max-width: 40%;
+}
+
+input {
+    padding: 10px;
+    margin-bottom: 17px;
+    border: 1px solid var(--col-lightColor);
+    border-radius: 4px;
+
+    width: 100%;
+    max-width: 100%;
+    background-color: #ffffff;
+}
+
+::placeholder {
+    font-size: 16px;
+    line-height: 22px;
+    color: var(--col-lightColor);
+}
+
+a {
+    color: #ffffff;
+}
+
+.address-container {
+    overflow: hidden;
+}
+
+.map-container {
+    margin: -22px -27px 0;
+}
+
+.provider-thumbnail {
+    background-color: #fff;
+}
+
+.provider-thumbnail:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 16px 2px #add;
+    z-index: 1000;
+}

@@ -1,0 +1,219 @@
+{
+  "status": "ok",
+  "0": {
+    "id": 59290,
+    "type": "albums",
+    "status": "publish",
+    "title": "Man Gantze Hartz",
+    "date": "2019-06-25 22:56:28",
+    "thumbnail": "https:\/\/jewishmusic.fm\/wp-content\/uploads\/2019\/06\/\u05d9\u05d5\u05d0\u05dc\u05d9-\u05d5\u05d5\u05d9\u05d9\u05e1-\u05de\u05d9\u05d9\u05df-\u05d2\u05d0\u05e0\u05e6\u05e2-\u05d4\u05d0\u05e8\u05e5-300x300.jpg",
+    "taxonomy_genres": [],
+    "thumbnail_images": {
+      "thumbnail": {
+        "url": "https:\/\/jewishmusic.fm\/wp-content\/uploads\/2019\/06\/\u05d9\u05d5\u05d0\u05dc\u05d9-\u05d5\u05d5\u05d9\u05d9\u05e1-\u05de\u05d9\u05d9\u05df-\u05d2\u05d0\u05e0\u05e6\u05e2-\u05d4\u05d0\u05e8\u05e5-150x150.jpg"
+      }
+    },
+    "taxonomy_artists": [
+      {
+        "id": 31663,
+        "title": "Yoely Weiss"
+      }
+    ]
+  },
+  "1": {
+    "id": 59297,
+    "type": "albums",
+    "status": "publish",
+    "title": "I Am ALive",
+    "date": "2019-06-26 07:07:27",
+    "thumbnail": "https:\/\/jewishmusic.fm\/wp-content\/uploads\/2019\/06\/\u05d9\u05e2\u05e7\u05d1-\u05e9\u05d5\u05d5\u05d0\u05e7\u05d9-I-Am-Alive-300x300.jpg",
+    "taxonomy_genres": [],
+    "thumbnail_images": {
+      "thumbnail": {
+        "url": "https:\/\/jewishmusic.fm\/wp-content\/uploads\/2019\/06\/\u05d9\u05e2\u05e7\u05d1-\u05e9\u05d5\u05d5\u05d0\u05e7\u05d9-I-Am-Alive-150x150.jpg"
+      }
+    },
+    "taxonomy_artists": [
+      {
+        "id": 15746,
+        "title": "Yaakov Shwekey"
+      }
+    ]
+  },
+  "2": {
+    "id": 62348,
+    "type": "albums",
+    "status": "publish",
+    "title": "Desde Lo Profundo",
+    "date": "2019-08-31 21:59:51",
+    "thumbnail": "https:\/\/jewishmusic.fm\/wp-content\/uploads\/2019\/08\/\u05d9\u05d5\u05e0\u05d4-\u05d0\u05d5\u05e8\u05e4\u05dc\u05d9-\u05de\u05d4\u05e2\u05de\u05d5\u05e7-300x300.jpg",
+    "taxonomy_genres": [],
+    "thumbnail_images": {
+      "thumbnail": {
+        "url": "https:\/\/jewishmusic.fm\/wp-content\/uploads\/2019\/08\/\u05d9\u05d5\u05e0\u05d4-\u05d0\u05d5\u05e8\u05e4\u05dc\u05d9-\u05de\u05d4\u05e2\u05de\u05d5\u05e7-150x150.jpg"
+      }
+    },
+    "taxonomy_artists": [
+      {
+        "id": 40779,
+        "title": "Yonnah Urfali"
+      }
+    ]
+  },
+  "3": {
+    "id": 59765,
+    "type": "albums",
+    "status": "publish",
+    "title": "Shuvi Nafshi",
+    "date": "2019-07-10 11:28:29",
+    "thumbnail": "https:\/\/jewishmusic.fm\/wp-content\/uploads\/2019\/07\/\u05dc\u05d4\u05e7\u05ea-\u05e0\u05e9\u05de\u05d7\u05d4-\u05e9\u05d5\u05d1\u05d9-\u05e0\u05e4\u05e9\u05d9-300x300.jpg",
+    "taxonomy_genres": [],
+    "thumbnail_images": {
+      "thumbnail": {
+        "url": "https:\/\/jewishmusic.fm\/wp-content\/uploads\/2019\/07\/\u05dc\u05d4\u05e7\u05ea-\u05e0\u05e9\u05de\u05d7\u05d4-\u05e9\u05d5\u05d1\u05d9-\u05e0\u05e4\u05e9\u05d9-150x150.jpg"
+      }
+    },
+    "taxonomy_artists": [
+      {
+        "id": 12836,
+        "title": "Aaron Razel"
+      },
+      {
+        "id": 59764,
+        "title": "Nismecha Band"
+      },
+      {
+        "id": 18717,
+        "title": "Yitzchak Meir"
+      }
+    ]
+  },
+  "4": {
+    "id": 59303,
+    "type": "albums",
+    "status": "publish",
+    "title": "Kulanu",
+    "date": "2019-06-26 07:36:33",
+    "thumbnail": "https:\/\/jewishmusic.fm\/wp-content\/uploads\/2019\/06\/\u05e9\u05de\u05d9\u05dc\u05d9-\u05d0\u05d5\u05e0\u05d2\u05e8-\u05db\u05d5\u05dc\u05e0\u05d5-300x300.jpg",
+    "taxonomy_genres": [],
+    "thumbnail_images": {
+      "thumbnail": {
+        "url": "https:\/\/jewishmusic.fm\/wp-content\/uploads\/2019\/06\/\u05e9\u05de\u05d9\u05dc\u05d9-\u05d0\u05d5\u05e0\u05d2\u05e8-\u05db\u05d5\u05dc\u05e0\u05d5-150x150.jpg"
+      }
+    },
+    "taxonomy_artists": [
+      {
+        "id": 30404,
+        "title": "Shmueli Ungar"
+      }
+    ]
+  },
+  "5": {
+    "id": 61204,
+    "type": "albums",
+    "status": "publish",
+    "title": "The Wedding Album",
+    "date": "2019-08-11 20:15:24",
+    "thumbnail": "https:\/\/jewishmusic.fm\/wp-content\/uploads\/2019\/08\/\u05de\u05e9\u05d4-\u05e7\u05d0\u05d4\u05df-\u05d0\u05dc\u05d1\u05d5\u05dd-\u05d4\u05d7\u05ea\u05d5\u05e0\u05d4-300x300.jpg",
+    "taxonomy_genres": [],
+    "thumbnail_images": {
+      "thumbnail": {
+        "url": "https:\/\/jewishmusic.fm\/wp-content\/uploads\/2019\/08\/\u05de\u05e9\u05d4-\u05e7\u05d0\u05d4\u05df-\u05d0\u05dc\u05d1\u05d5\u05dd-\u05d4\u05d7\u05ea\u05d5\u05e0\u05d4-150x150.jpg"
+      }
+    },
+    "taxonomy_artists": [
+      {
+        "id": 60976,
+        "title": "Moishe Kahan"
+      }
+    ]
+  },
+  "6": {
+    "id": 59432,
+    "type": "albums",
+    "status": "publish",
+    "title": "Shirei Masoreit Part 2",
+    "date": "2019-06-29 22:16:23",
+    "thumbnail": "https:\/\/jewishmusic.fm\/wp-content\/uploads\/2019\/06\/\u05e6\u05d1\u05d9\u05e7\u05d4-\u05d7\u05d9-\u05e9\u05d9\u05e8\u05d9-\u05de\u05e1\u05d5\u05e8\u05ea-\u05d7\u05d1-300x300.jpg",
+    "taxonomy_genres": [],
+    "thumbnail_images": {
+      "thumbnail": {
+        "url": "https:\/\/jewishmusic.fm\/wp-content\/uploads\/2019\/06\/\u05e6\u05d1\u05d9\u05e7\u05d4-\u05d7\u05d9-\u05e9\u05d9\u05e8\u05d9-\u05de\u05e1\u05d5\u05e8\u05ea-\u05d7\u05d1-150x150.jpg"
+      }
+    },
+    "taxonomy_artists": [
+      {
+        "id": 55770,
+        "title": "Tzvika Chai"
+      }
+    ]
+  },
+  "7": {
+    "id": 59299,
+    "type": "albums",
+    "status": "publish",
+    "title": "Yishtabach",
+    "date": "2019-06-26 07:15:26",
+    "thumbnail": "https:\/\/jewishmusic.fm\/wp-content\/uploads\/2019\/06\/\u05e0\u05de\u05d5\u05d0\u05dc-\u05d9\u05e9\u05ea\u05d1\u05d7-300x300.jpg",
+    "taxonomy_genres": [],
+    "thumbnail_images": {
+      "thumbnail": {
+        "url": "https:\/\/jewishmusic.fm\/wp-content\/uploads\/2019\/06\/\u05e0\u05de\u05d5\u05d0\u05dc-\u05d9\u05e9\u05ea\u05d1\u05d7-150x150.jpg"
+      }
+    },
+    "taxonomy_artists": [
+      {
+        "id": 23207,
+        "title": "Nemouel Harush"
+      }
+    ]
+  },
+  "8": {
+    "id": 62367,
+    "type": "albums",
+    "status": "publish",
+    "title": "That's My Song",
+    "date": "2019-09-01 07:22:13",
+    "thumbnail": "https:\/\/jewishmusic.fm\/wp-content\/uploads\/2019\/09\/\u05d6\u05d0\u05e7-\u05de\u05d9\u05d5\u05d6\u05d9\u05e7-\u05d6\u05d4-\u05d4\u05e9\u05d9\u05e8-\u05e9\u05dc\u05d9-300x300.jpg",
+    "taxonomy_genres": [],
+    "thumbnail_images": {
+      "thumbnail": {
+        "url": "https:\/\/jewishmusic.fm\/wp-content\/uploads\/2019\/09\/\u05d6\u05d0\u05e7-\u05de\u05d9\u05d5\u05d6\u05d9\u05e7-\u05d6\u05d4-\u05d4\u05e9\u05d9\u05e8-\u05e9\u05dc\u05d9-150x150.jpg"
+      }
+    },
+    "taxonomy_artists": [
+      {
+        "id": 40779,
+        "title": "Yonnah Urfali"
+      },
+      {
+        "id": 62364,
+        "title": "Zak Music"
+      }
+    ]
+  },
+  "9": {
+    "id": 59301,
+    "type": "albums",
+    "status": "publish",
+    "title": "Super Trump",
+    "date": "2019-06-26 07:27:38",
+    "thumbnail": "https:\/\/jewishmusic.fm\/wp-content\/uploads\/2019\/06\/\u05e4\u05e8\u05d7\u05d9-\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd-\u05e1\u05d5\u05e4\u05e8-\u05d8\u05e8\u05d0\u05de\u05e4-300x300.jpg",
+    "taxonomy_genres": [],
+    "thumbnail_images": {
+      "thumbnail": {
+        "url": "https:\/\/jewishmusic.fm\/wp-content\/uploads\/2019\/06\/\u05e4\u05e8\u05d7\u05d9-\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd-\u05e1\u05d5\u05e4\u05e8-\u05d8\u05e8\u05d0\u05de\u05e4-150x150.jpg"
+      }
+    },
+    "taxonomy_artists": [
+      {
+        "id": 75519,
+        "title": "Hanan Avital"
+      },
+      {
+        "id": 13092,
+        "title": "Pirchei Yerushalaim"
+      }
+    ]
+  }
+}
